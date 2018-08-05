@@ -64,7 +64,7 @@ then
     mv ./build/libraries/ ./server/libraries
     cd ..
     cd mcserver
-    java -jar glowstone.jar
+    java -jar Atom.jar
     cd ..
 fi
 
